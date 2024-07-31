@@ -75,7 +75,7 @@ const AboutSection: React.FC = () => {
           Apaixonado por ciência e por novas descobertas, 
           estou sempre em busca de me aprimorar e evoluir continuamente. 
           Atualmente, concentro meus esforços em tecnologias como JavaScript, 
-          React, Redux, Node.js, Express, PostgreSQL, Sequelize, HTML, CSS e Git. 
+          React, Node.js, Express, PostgreSQL, HTML, CSS e Git. 
           Sou focado, aprendo rápido e estou constantemente ampliando meus 
           conhecimentos e habilidades. Valorizo o trabalho em equipe e estou 
           entusiasmado para colaborar com outros profissionais na criação de 
@@ -92,13 +92,13 @@ const AboutSection: React.FC = () => {
               selectTab={() => handleTabChange("education")}
               active={tab === "education"}
             >
-              Education
+              Educação
             </TabButton>
             <TabButton
               selectTab={() => handleTabChange("certifications")}
               active={tab === "certifications"}
             >
-              Certifications
+              Certificações
             </TabButton>
           </div>
           <div className="mt-8">
