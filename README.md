@@ -10,7 +10,6 @@ Welcome to my portfolio! This is a personal portfolio built using [Next.js](http
 - [Usage](#usage)
 - [Docker](#docker)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
